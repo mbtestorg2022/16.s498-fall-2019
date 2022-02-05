@@ -4,20 +4,445 @@ title: Calendar
 uid: 2bb73b35-61ad-b6d4-005d-0d4efe33a493
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Introduction and Overview of the Course** {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Overview of Nonlinear and Convex Optimization:** {{< br >}}{{< br >}} i) Optimality Conditions {{< br >}}{{< br >}} ii) Newton’s Method {{< br >}}{{< br >}} iii) Interior Point Method {{< br >}}{{< br >}} iv) Dual Optimization {{< br >}}{{< br >}} v) Convex Optimization {{< br >}}{{< br >}} vi) Linear Program {{< br >}}{{< br >}} vii) Semidefinite Program {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem set 1 out {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Nonlinear Optimization Using the Theory of Nonnegative Polynomials** {{< br >}}{{< br >}} Sum-of-Squares Formulation (SOS) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem set 1 due {{< br >}}{{< br >}} Problem set 2 out {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Nonlinear Optimization Using the Theory of Measure and Moments** {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem set 2 due {{< br >}}{{< br >}} Problem set 3 out {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Duality** {{< br >}}{{< br >}} i) Duality of Moments and Polynomials {{< br >}}{{< br >}} ii) Duality of Measures and Continuous Functions {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem set 3 due {{< br >}}{{< br >}} Problem set 4 out {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Modified Sum-of-Squares Optimization** {{< br >}}{{< br >}} i) Spars Sum-of-Squares Optimization (SOS) {{< br >}}{{< br >}} ii) Bounded Degree Sum-of-Squares Optimization (BSOS) {{< br >}}{{< br >}} iii) (Scaled) Diagonally Dominant Sum-of-Squares Optimization (SDSOS, DSOS) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem set 4 due {{< br >}}{{< br >}} Problem set 5 out {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Chance Optimization and Chance-Constrained Optimization** {{< br >}}{{< br >}} i) Measure and Moments Formulation {{< br >}}{{< br >}} ii) Sum-of-Squares Formulation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem set 5 due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Part 1: Robust Optimization Using Sum-of-Squares Optimization** {{< br >}}{{< br >}} **Part 2: Distributionally Robust Chance-Constrained Optimization** {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem set 6 out {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Algorithms for Large-Scale Semidefinite Programs (Guest Lecture)** {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem set 6 due  {{< br >}}{{< br >}} Problem set 7 out {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Safety Verification of Probabilistic Systems** {{< br >}}{{< br >}} i) Risk Estimation {{< br >}}{{< br >}} ii) Probabilistic Uncertainty Propagation {{< br >}}{{< br >}} iii) Uncertainty Set Construction {{< br >}}{{< br >}} iv) Forward-Reachable Sets {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem set 7 due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Risk Aware Planning and Control** {{< br >}}{{< br >}} i) Risk-Bounded Trajectory Planning {{< br >}}{{< br >}} ii) Risk Aware Nonlinear Control {{< br >}}{{< br >}} iii) Flow-Tube–Based Control {{< br >}}{{< br >}} iv) Backward-Reachable Sets {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Dynamical Systems with Gaussian Uncertainties** {{< br >}}{{< br >}} i) Chance-Constrained Control {{< br >}}{{< br >}} ii) Safety Verification {{< br >}}{{< br >}} iii) Distributionally Robust Chance Constraints {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 13 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Occupation Measure-Based Analysis and Control** {{< br >}}{{< br >}} i) Safety Verification {{< br >}}{{< br >}} ii) Region-of-Attraction Set {{< br >}}{{< br >}} iii) Optimal Control {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 14 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Sum-of-Squares Optimization for Uncertain Nonlinear Systems** {{< br >}}{{< br >}} i) Lyapunov-Based Stability and Region-of-Attraction Set {{< br >}}{{< br >}} ii) Barrier-Function–Based Safety Verification {{< br >}}{{< br >}} iii) Robust Control {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 15 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Final Project Presentation** {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Introduction and Overview of the Course**
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Overview of Nonlinear and Convex Optimization:**
+
+i) Optimality Conditions
+
+ii) Newton’s Method
+
+iii) Interior Point Method
+
+iv) Dual Optimization
+
+v) Convex Optimization
+
+vi) Linear Program
+
+vii) Semidefinite Program
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 1 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Nonlinear Optimization Using the Theory of Nonnegative Polynomials**
+
+Sum-of-Squares Formulation (SOS)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 1 due
+
+Problem set 2 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Nonlinear Optimization Using the Theory of Measure and Moments**
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 2 due
+
+Problem set 3 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Duality**
+
+i) Duality of Moments and Polynomials
+
+ii) Duality of Measures and Continuous Functions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 3 due
+
+Problem set 4 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Modified Sum-of-Squares Optimization**
+
+i) Spars Sum-of-Squares Optimization (SOS)
+
+ii) Bounded Degree Sum-of-Squares Optimization (BSOS)
+
+iii) (Scaled) Diagonally Dominant Sum-of-Squares Optimization (SDSOS, DSOS)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 4 due
+
+Problem set 5 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Chance Optimization and Chance-Constrained Optimization**
+
+i) Measure and Moments Formulation
+
+ii) Sum-of-Squares Formulation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 5 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Part 1: Robust Optimization Using Sum-of-Squares Optimization**
+
+**Part 2: Distributionally Robust Chance-Constrained Optimization**
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 6 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Algorithms for Large-Scale Semidefinite Programs (Guest Lecture)**
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 6 due 
+
+Problem set 7 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Safety Verification of Probabilistic Systems**
+
+i) Risk Estimation
+
+ii) Probabilistic Uncertainty Propagation
+
+iii) Uncertainty Set Construction
+
+iv) Forward-Reachable Sets
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 7 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Risk Aware Planning and Control**
+
+i) Risk-Bounded Trajectory Planning
+
+ii) Risk Aware Nonlinear Control
+
+iii) Flow-Tube–Based Control
+
+iv) Backward-Reachable Sets
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Dynamical Systems with Gaussian Uncertainties**
+
+i) Chance-Constrained Control
+
+ii) Safety Verification
+
+iii) Distributionally Robust Chance Constraints
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+13
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Occupation Measure-Based Analysis and Control**
+
+i) Safety Verification
+
+ii) Region-of-Attraction Set
+
+iii) Optimal Control
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+14
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Sum-of-Squares Optimization for Uncertain Nonlinear Systems**
+
+i) Lyapunov-Based Stability and Region-of-Attraction Set
+
+ii) Barrier-Function–Based Safety Verification
+
+iii) Robust Control
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+15
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Final Project Presentation**
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
