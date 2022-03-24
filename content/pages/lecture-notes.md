@@ -28,7 +28,7 @@ TOPICS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Introduction and Overview of the Course (PDF - 4.1MB)]({{< baseurl >}}/resources/mit16_s498f19_l1)
+[Introduction and Overview of the Course (PDF - 4.1MB)]({{< baseurl >}}/resources/mit16_s498f19_l1)
 
 
 {{< tdclose >}}
@@ -45,7 +45,7 @@ TOPICS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Overview of Nonlinear Optimization (PDF - 6.1MB)]({{< baseurl >}}/resources/mit16_s498f19_l2)
+[Overview of Nonlinear Optimization (PDF - 6.1MB)]({{< baseurl >}}/resources/mit16_s498f19_l2)
 
 
 {{< tdclose >}}
@@ -62,7 +62,7 @@ TOPICS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Sum of Squares for Nonlinear Optimization (PDF - 4.7MB)]({{< baseurl >}}/resources/mit16_s498f19_l3)
+[Sum of Squares for Nonlinear Optimization (PDF - 4.7MB)]({{< baseurl >}}/resources/mit16_s498f19_l3)
 
 
 {{< tdclose >}}
@@ -79,7 +79,7 @@ TOPICS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Measure and Moments for Nonlinear Optimization (PDF - 5.2MB)]({{< baseurl >}}/resources/mit16_s498f19_l4)
+[Measure and Moments for Nonlinear Optimization (PDF - 5.2MB)]({{< baseurl >}}/resources/mit16_s498f19_l4)
 
 
 {{< tdclose >}}
@@ -96,7 +96,7 @@ TOPICS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Duality of SOS and Moment-Based SDPs (PDF - 6MB)]({{< baseurl >}}/resources/mit16_s498f19_l5)
+[Duality of SOS and Moment-Based SDPs (PDF - 6MB)]({{< baseurl >}}/resources/mit16_s498f19_l5)
 
 
 {{< tdclose >}}
@@ -113,7 +113,7 @@ TOPICS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Modified Sum-of-Squares Relaxations for Large-Scale Optimizations (PDF - 5MB)]({{< baseurl >}}/resources/mit16_s498f19_l6)
+[Modified Sum-of-Squares Relaxations for Large-Scale Optimizations (PDF - 5MB)]({{< baseurl >}}/resources/mit16_s498f19_l6)
 
 
 {{< tdclose >}}
@@ -130,7 +130,7 @@ TOPICS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Nonlinear Chance-Constrained and Chance Optimization (PDF - 6.2MB)]({{< baseurl >}}/resources/mit16_s498f19_l7)
+[Nonlinear Chance-Constrained and Chance Optimization (PDF - 6.2MB)]({{< baseurl >}}/resources/mit16_s498f19_l7)
 
 
 {{< tdclose >}}
@@ -147,7 +147,7 @@ TOPICS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Nonlinear Robust and Distributionally Robust Chance-Constrained Optimization (PDF - 4.5MB)]({{< baseurl >}}/resources/mit16_s498f19_l8)
+[Nonlinear Robust and Distributionally Robust Chance-Constrained Optimization (PDF - 4.5MB)]({{< baseurl >}}/resources/mit16_s498f19_l8)
 
 
 {{< tdclose >}}
@@ -181,7 +181,7 @@ Algorithms for Large-Scale Semidefinite Programs (Guest Lecture)
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Probabilistic Nonlinear Safety Verification (PDF - 9.2MB)]({{< baseurl >}}/resources/mit16_s498f19_l10)
+[Probabilistic Nonlinear Safety Verification (PDF - 9.2MB)]({{< baseurl >}}/resources/mit16_s498f19_l10)
 
 
 {{< tdclose >}}
@@ -198,7 +198,7 @@ Algorithms for Large-Scale Semidefinite Programs (Guest Lecture)
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Risk Aware Planning and Control of Probabilistic Nonlinear Dynamical Systems (PDF - 6.5MB)]({{< baseurl >}}/resources/mit16_s498f19_l11)
+[Risk Aware Planning and Control of Probabilistic Nonlinear Dynamical Systems (PDF - 6.5MB)]({{< baseurl >}}/resources/mit16_s498f19_l11)
 
 
 {{< tdclose >}}
@@ -215,7 +215,7 @@ Algorithms for Large-Scale Semidefinite Programs (Guest Lecture)
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Mean-and-Covariance–Based Control and Safety Verification of Probabilistic Dynamical Systems (PDF - 4.8MB)]({{< baseurl >}}/resources/mit16_s498f19_l12)
+[Mean-and-Covariance–Based Control and Safety Verification of Probabilistic Dynamical Systems (PDF - 4.8MB)]({{< baseurl >}}/resources/mit16_s498f19_l12)
 
 
 {{< tdclose >}}
@@ -232,7 +232,7 @@ Algorithms for Large-Scale Semidefinite Programs (Guest Lecture)
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Occupation-Measure–Based Control of Continuous-Time Nonlinear Dynamical Systems (PDF - 3.5MB)]({{< baseurl >}}/resources/mit16_s498f19_l13)
+[Occupation-Measure–Based Control of Continuous-Time Nonlinear Dynamical Systems (PDF - 3.5MB)]({{< baseurl >}}/resources/mit16_s498f19_l13)
 
 
 {{< tdclose >}}
@@ -249,7 +249,7 @@ Algorithms for Large-Scale Semidefinite Programs (Guest Lecture)
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Sum-of-Squares Optimization-Based Robust Planning for Uncertain Nonlinear Systems (PDF - 3.3MB)]({{< baseurl >}}/resources/mit16_s498f19_l14)
+[Sum-of-Squares Optimization-Based Robust Planning for Uncertain Nonlinear Systems (PDF - 3.3MB)]({{< baseurl >}}/resources/mit16_s498f19_l14)
 
 
 {{< tdclose >}}
