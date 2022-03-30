@@ -30,7 +30,7 @@ The applications of the programs include:
 Prerequisites
 -------------
 
-_Linear Algebra_ (e.g., [_18.06_](/courses/18-06-linear-algebra-spring-2010/)), _Convex Optimization_ (e.g., _6.215_, _[6.251](/courses/6-251j-introduction-to-mathematical-programming-fall-2009/)_, _[6.255](/courses/15-093j-optimization-methods-fall-2009/)_), _Probability Theory_ (e.g., _[6.431](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/)_), _Dynamical Systems_ (e.g., _[6.241](/courses/6-241j-dynamic-systems-and-control-spring-2011/)_) or permission of the instructor for MIT students.
+_Linear Algebra_ (e.g., [_18.06_](/courses/18-06-linear-algebra-spring-2010)), _Convex Optimization_ (e.g., _6.215_, _[6.251](/courses/6-251j-introduction-to-mathematical-programming-fall-2009)_, _[6.255](/courses/15-093j-optimization-methods-fall-2009)_), _Probability Theory_ (e.g., _[6.431](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010)_), _Dynamical Systems_ (e.g., _[6.241](/courses/6-241j-dynamic-systems-and-control-spring-2011)_) or permission of the instructor for MIT students.
 
 Grading Policy
 --------------
